@@ -5,6 +5,7 @@ Currently pursuing an Artificial Intelligence and Machine Learning major at Mani
 
 ### Feel free to connect with me:
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650351487~hmac=455b07f03f0fd3886996af8c49158f6f" height="30" />
-</a> <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" /></a>
+<a href="https://www.linkedin.com/in/arnav-puri/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650351487~hmac=455b07f03f0fd3886996af8c49158f6f" height="30" />
+</a> <a href="https://www.instagram.com/_arnav.puri_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" /></a>
+<a href="https://twitter.com/Infinictus" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1650352155~hmac=f18789d7de3ec8b650688ee8223b0683" height="30" /></a>
 
